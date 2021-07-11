@@ -1,0 +1,386 @@
+@media screen and (min-width: 1150px) {
+  header {
+    background-attachment: fixed !important;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .nav-link-item-responsive {
+    font-size: 11px !important;
+  }
+
+  .flag-en {
+    height: 20px !important;
+  }
+
+  .repsonsive-link {
+    display: flex;
+    justify-content: flex-start !important;
+  }
+
+  .team-1 li {
+    font-size: 11px !important;
+    text-align: center !important;
+  }
+
+  .services-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .product-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .btn-responsive {
+    text-align: center !important;
+  }
+
+  .special--div--li {
+    font-size: 10px !important;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .nav-link-item-responsive {
+    font-size: 11px !important;
+  }
+
+  .flag-en {
+    height: 20px !important;
+  }
+
+  .repsonsive-link {
+    display: flex;
+    justify-content: flex-start !important;
+  }
+
+  .team-1 li {
+    font-size: 11px !important;
+    text-align: center !important;
+  }
+
+  .services-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .product-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .btn-responsive {
+    text-align: center !important;
+  }
+
+  .special--div--li {
+    font-size: 10px !important;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  .nav-link-item-responsive {
+    font-size: 11px !important;
+  }
+
+  .flag-en {
+    height: 20px !important;
+  }
+
+  .repsonsive-link {
+    display: flex;
+    justify-content: flex-start !important;
+  }
+
+  .services--li {
+    font-size: 13px !important;
+  }
+
+  .team-1 li {
+    font-size: 11px !important;
+    text-align: center !important;
+  }
+
+  .services-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .product-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .btn-responsive {
+    text-align: center !important;
+  }
+
+  .special--div--li {
+    font-size: 10px !important;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .nav-link-item-responsive {
+    font-size: 11px !important;
+  }
+
+  .flag-en {
+    height: 20px !important;
+  }
+
+  .repsonsive-link {
+    display: flex;
+    justify-content: flex-start !important;
+  }
+
+  .services--li {
+    font-size: 13px !important;
+  }
+
+  .team-1 li {
+    font-size: 11px !important;
+    text-align: center !important;
+  }
+
+  .services-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .product-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .btn-responsive {
+    text-align: center !important;
+  }
+
+  .special--div--li {
+    font-size: 10px !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* header {
+    height: auto !important;
+  } */
+
+  .nav-link-item-responsive {
+    font-size: 11px !important;
+  }
+
+  .flag-en {
+    height: 20px !important;
+  }
+
+  .repsonsive-link {
+    display: flex;
+    justify-content: flex-start !important;
+  }
+
+  .services--li {
+    font-size: 13px !important;
+  }
+
+  .team-1 li {
+    font-size: 11px !important;
+    text-align: center !important;
+  }
+
+  .services-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .product-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .btn-responsive {
+    text-align: center !important;
+  }
+
+  .special--div--li {
+    font-size: 10px !important;
+  }
+
+  /* header {
+    height: auto !important;
+  } */
+
+  .package--h3 {
+    margin-top: 15px;
+    /* text-align: center; */
+    font-size: 20px !important;
+  }
+
+  .package--p {
+    /* text-align: center; */
+    font-size: 13px !important;
+  }
+}
+
+@media screen and (max-width: 569px) {
+  header {
+    height: auto !important;
+  }
+
+  .header-logo {
+    height: 50px !important;
+  }
+
+  .repsonsive-link {
+    display: flex;
+    justify-content: flex-start !important;
+  }
+
+  .header-h1-div h1 {
+    font-size: 45px !important;
+  }
+
+  .card--margin {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 20rem !important;
+  }
+
+  .services--li {
+    font-size: 10px !important;
+  }
+
+  .product--li {
+    font-size: 10px !important;
+  }
+
+  .team-1 li {
+    font-size: 10px !important;
+    text-align: center !important;
+  }
+
+  .services-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .product-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .btn-responsive {
+    text-align: center !important;
+  }
+
+  .special--div--li {
+    font-size: 8px !important;
+  }
+
+  header {
+    height: auto !important;
+  }
+
+  .package--h3 {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px !important;
+  }
+
+  .package--p {
+    text-align: center;
+    font-size: 13px !important;
+  }
+
+  .package--a {
+    font-size: 13px !important;
+  }
+
+  .package--ul {
+    margin: 8px !important;
+    padding: 15px !important;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header-logo {
+    height: 50px !important;
+  }
+
+  .repsonsive-link {
+    display: flex;
+    justify-content: flex-start !important;
+  }
+
+  .header-h1-div h1 {
+    font-size: 35px !important;
+  }
+
+  .card--margin {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 17rem !important;
+  }
+
+  .services--li {
+    font-size: 8px !important;
+  }
+
+  .product--li {
+    font-size: 8px !important;
+  }
+
+  .team--responsive {
+    display: none !important;
+  }
+
+  .team-1 li {
+    font-size: 9px !important;
+    text-align: center !important;
+  }
+
+  .services-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .product-h4 {
+    text-align: center !important;
+    margin-top: 15px !important;
+  }
+
+  .btn-responsive {
+    text-align: center !important;
+  }
+
+  .special--div--li {
+    font-size: 6px !important;
+  }
+
+  header {
+    height: auto !important;
+  }
+
+  .package--h3 {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px !important;
+  }
+
+  .package--p {
+    text-align: center;
+    font-size: 13px !important;
+  }
+
+  .package--a {
+    font-size: 13px !important;
+  }
+
+  .package--ul {
+    margin: 8px !important;
+    padding: 15px !important;
+  }
+}
